@@ -1,3 +1,3 @@
 # practicalgit
-A
+B
 #newFeature is NewRemco
