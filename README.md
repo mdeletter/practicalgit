@@ -1,3 +1,3 @@
 # practicalgit
 Nick Pourquié
-A
+A, B
