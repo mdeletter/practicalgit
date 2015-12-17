@@ -1,2 +1,2 @@
 # practicalgit
-A
+B
