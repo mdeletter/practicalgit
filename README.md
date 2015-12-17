@@ -1,3 +1,2 @@
 # practicalgit
-##Author
-Joost Melkert
+A
